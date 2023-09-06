@@ -1,0 +1,18 @@
+Carol:
+
+pub   rsa3072 2023-09-05 [SC] [expires: 2025-09-04]
+      30693F99F04CCBDC6A220A33EE8BDAE1   7C3FE808
+uid                      Carol <carolinesz1997@gmail.com>
+sub   rsa3072 2023-09-05 [E] [expires: 2025-09-04]
+
+pharaphasse: timeout
+
+
+Giovane:
+
+pub   rsa3072 2023-09-05 [SC] [expires: 2025-09-04]
+      2475827A4D1F4342770C1ED1443484CF 2155177A
+uid                      giovane <giovane.fern.m@gmail.com>
+sub   rsa3072 2023-09-05 [E] [expires: 2025-09-04]
+pharaphasse: ubuntu
+
